@@ -1,4 +1,11 @@
 import React from 'react';
+/*
+참조 url
+    https://ko.reactjs.org/docs/react-component.html
+    https://react.vlpt.us/basic/25-lifecycle.html
+    https://ko.reactjs.org/docs/react-component.html#static-getderivedstatefromprops
+    https://ko.reactjs.org/docs/hooks-effect.html
+*/
 
 export default class Clock extends React.Component {
     // constructor : 컴포넌트가 초기화될 때 다른 어떤 메소드보다 먼저 호출되며, state 와 다른 초기 값들을 세팅한다.
